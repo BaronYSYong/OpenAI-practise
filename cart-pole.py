@@ -1,6 +1,11 @@
+"""
+Level 1: Getting environment up and running
+"""
+
 import gym
 env = gym.make('CartPole-v0')
 env.reset()
-for _ in range(1000):
+for _ in range(1000): # run for 1000 steps
     env.render()
-    env.step(env.action_space.sample()) # take a random action
+    action = env.action_space.sampe() # pick a random action
+    env.step(action) # take action

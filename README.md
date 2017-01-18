@@ -1,4 +1,4 @@
-# OpenAI-practise
+# Purpose
 Personal OpenAI practise
 
 # Source

@@ -1,10 +1,9 @@
-# Purpose
-Personal OpenAI practise
+# Open AI Tutorial
 
-# Source
-    - https://gym.openai.com/docs
-    - https://gist.github.com/iambrian/2bcc8fc03eaecb2cbe53012d2f505465
-    - https://github.com/openai/gym
+## Reference
+* https://gym.openai.com/docs
+* https://gist.github.com/iambrian/2bcc8fc03eaecb2cbe53012d2f505465
+* https://github.com/openai/gym
     
     
     
